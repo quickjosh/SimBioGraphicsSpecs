@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b916303b-e319-4f95-a844-b29e40431d5b" name="Default" comment="" />
+    <list default="true" id="b916303b-e319-4f95-a844-b29e40431d5b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rhsGraph.html" afterPath="$PROJECT_DIR$/rhsGraph.html" />
+    </list>
     <ignored path="SimBioGraphicsSpecs.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rhsGraph.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="rhsGraph.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rhsGraph.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.73170733">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -53,10 +55,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="masonry-docs.min.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="masonry-docs.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/masonry-docs.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.600939">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1054" column="8" selection-start-line="1054" selection-start-column="8" selection-end-line="1054" selection-end-column="8" />
               <folding />
             </state>
@@ -71,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rhsGraph.html" />
         <option value="$PROJECT_DIR$/js/masonry-docs.min.js" />
+        <option value="$PROJECT_DIR$/rhsGraph.html" />
       </list>
     </option>
   </component>
@@ -312,18 +314,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rhsGraph.html">
+    <entry file="file://$PROJECT_DIR$/js/masonry-docs.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1054" column="8" selection-start-line="1054" selection-start-column="8" selection-end-line="1054" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/masonry-docs.min.js">
+    <entry file="file://$PROJECT_DIR$/rhsGraph.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.600939">
-          <caret line="1054" column="8" selection-start-line="1054" selection-start-column="8" selection-end-line="1054" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.73170733">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
           <folding />
         </state>
       </provider>
