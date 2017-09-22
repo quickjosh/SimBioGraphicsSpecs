@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b916303b-e319-4f95-a844-b29e40431d5b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/masonry-docs.min.js" afterPath="$PROJECT_DIR$/js/masonry-docs.min.js" />
-    </list>
+    <list default="true" id="b916303b-e319-4f95-a844-b29e40431d5b" name="Default" comment="" />
     <ignored path="SimBioGraphicsSpecs.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +56,8 @@
       <file leaf-file-name="masonry-docs.min.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/masonry-docs.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57746476">
-              <caret line="1053" column="31" selection-start-line="1053" selection-start-column="31" selection-end-line="1053" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.600939">
+              <caret line="1054" column="8" selection-start-line="1054" selection-start-column="8" selection-end-line="1054" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -86,8 +84,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="202" />
-    <option name="y" value="45" />
+    <option name="x" value="311" />
+    <option name="y" value="428" />
     <option name="width" value="1316" />
     <option name="height" value="736" />
   </component>
@@ -240,7 +238,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="202" y="45" width="1316" height="736" extended-state="0" />
+    <frame x="311" y="428" width="1316" height="736" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -324,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/masonry-docs.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57746476">
-          <caret line="1053" column="31" selection-start-line="1053" selection-start-column="31" selection-end-line="1053" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.600939">
+          <caret line="1054" column="8" selection-start-line="1054" selection-start-column="8" selection-end-line="1054" selection-end-column="8" />
           <folding />
         </state>
       </provider>
