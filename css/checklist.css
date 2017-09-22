@@ -1,0 +1,62 @@
+@font-face {
+  font-family: glyphicons-regular;
+  src: url("../html/fonts/glyphicons-regular.ttf"); }
+body {
+  font-family: Helvetica, Arial, Sans-Serif;
+}
+
+/*
+=================
+Misc basic styles
+=================
+*/
+.logo {
+  width:50%;
+  min-width:300px;
+  max-width:700px;
+}
+
+.hero__tagline {
+  color:white;
+  margin-left:15px;
+}
+/*
+=================
+Text basic styles
+=================
+*/
+.assetPage h1 {
+  text-align:center;
+  font-size:2.5em;
+}
+
+@media screen and (max-width: 699px)  {
+  .assetPage h1 {
+    font-size:1.5em;
+  }
+}
+
+img.graphy {
+  width:70%;
+  min-width:400px;
+  max-width:800px;
+  margin:0 auto;
+  text-align:center;
+  display:block;
+}
+
+button.graphicAsset  {
+  text-align:center;
+  margin:0 auto;
+  display:block;
+  padding:5px 10px;
+  font-size:1.2em;
+  border-radius:5px;
+  background:#7e8083;
+  border:1px #525457 solid;
+  color:#fff;
+}
+
+button.graphicAsset:hover  {
+  background:#525457;
+}
