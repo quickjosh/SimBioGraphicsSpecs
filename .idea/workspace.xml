@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b916303b-e319-4f95-a844-b29e40431d5b" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rhsGraph.html" afterPath="$PROJECT_DIR$/rhsGraph.html" />
+>>>>>>> 2faabdf1c50d56637629dc987f7f2ceb8402fe5d
     </list>
     <ignored path="SimBioGraphicsSpecs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +27,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="checklist.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/checklist.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.16176471">
               <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+=======
+      <file leaf-file-name="checklist.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/checklist.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rhsGraph.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rhsGraph.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.73170733">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+>>>>>>> 2faabdf1c50d56637629dc987f7f2ceb8402fe5d
               <folding />
             </state>
           </provider>
@@ -65,7 +87,10 @@
       <list>
         <option value="$PROJECT_DIR$/js/masonry-docs.min.js" />
         <option value="$PROJECT_DIR$/rhsGraph.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/css/checklist.css" />
+=======
+>>>>>>> 2faabdf1c50d56637629dc987f7f2ceb8402fe5d
       </list>
     </option>
   </component>
@@ -77,8 +102,13 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="190" />
     <option name="y" value="196" />
+=======
+    <option name="x" value="311" />
+    <option name="y" value="428" />
+>>>>>>> 2faabdf1c50d56637629dc987f7f2ceb8402fe5d
     <option name="width" value="1316" />
     <option name="height" value="736" />
   </component>
@@ -231,7 +261,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="190" y="196" width="1316" height="736" extended-state="0" />
+=======
+    <frame x="311" y="428" width="1316" height="736" extended-state="0" />
+>>>>>>> 2faabdf1c50d56637629dc987f7f2ceb8402fe5d
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -261,6 +295,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/css/checklist.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 2faabdf1c50d56637629dc987f7f2ceb8402fe5d
     <entry file="file://$PROJECT_DIR$/masonry.pkgd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.4074075">
@@ -305,10 +350,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/css/checklist.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16176471">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/rhsGraph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73170733">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+>>>>>>> 2faabdf1c50d56637629dc987f7f2ceb8402fe5d
           <folding />
         </state>
       </provider>
